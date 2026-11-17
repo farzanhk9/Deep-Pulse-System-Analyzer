@@ -1,4 +1,4 @@
-# A high-performance diagnostic tool for real-time CPU, RAM, and Network health.0
+# A high-performance diagnostic tool for real-time CPU, RAM, and Network health.
 import psutil
 import time
 from datetime import datetime
